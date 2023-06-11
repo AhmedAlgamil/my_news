@@ -1,0 +1,23 @@
+{
+  "@@local": "ar",
+  "MyNews": "أخباري",
+  "TopHeadLine": "آخر الأخبار",
+  "Categories": "فئات الأخبار",
+  "Favourites": "المفضلة",
+  "Sports": "الرياضة",
+  "Business": "الإقتصاد",
+  "Entertainment": "الترفيه",
+  "General": "عام",
+  "Health": "الصحة",
+  "Technologies": "التكنولوجيا",
+  "Science": "العلوم",
+  "ShowAll": "المزيد",
+  "moreDetails": "عرض المزيد",
+  "Unknown": "غير معروف",
+  "author": "المؤلف",
+  "Source": "المصدر",
+  "noDescription": "لا يوجد وصف",
+  "noContent": "لا يوجد محتوى",
+  "noDate": "لا يوجد تاريخ",
+  "Search": "ابحث"
+}

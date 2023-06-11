@@ -1,0 +1,23 @@
+{
+  "@@local": "en",
+  "MyNews": "My News",
+  "TopHeadLine": "Top Head Lines",
+  "Categories": "Categories",
+  "Favourites": "Favourite",
+  "Sports": "Sport",
+  "Business": "Business",
+  "Entertainment": "Entertainment",
+  "General": "General",
+  "Health": "Health",
+  "Technologies": "Technology",
+  "Science": "Science",
+  "ShowAll": "Show all",
+  "moreDetails": "More Details",
+  "Unknown": "Unknown",
+  "author": "author",
+  "Source": "Source",
+  "noDescription": "no description",
+  "noContent": "no content",
+  "noDate": "no date",
+  "Search": "Search"
+}
