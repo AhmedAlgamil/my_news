@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      locale: const Locale('ar'),
+      locale: const Locale('en'),
       supportedLocales: const [
         Locale('en'), // English
         Locale('ar'), // Spanish
